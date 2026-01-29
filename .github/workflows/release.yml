@@ -1,6 +1,8 @@
 name: Release
 on:
   workflow_dispatch:
+permissions:
+  contents: write
 
 jobs:
   bump:
@@ -8,8 +10,6 @@ jobs:
     outputs:
       bumped: ${{ steps.bump.outputs.bumped }}
       current-version: ${{ steps.bump.outputs.current-version }}
-    permissions:
-      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -27,8 +27,6 @@ jobs:
     outputs:
       changes: ${{ steps.changelog.outputs.changes }}
     if: needs.bump.outputs.bumped == 'true'
-    permissions:
-      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -51,8 +49,6 @@ jobs:
     runs-on: ubuntu-latest
     needs: [bump, changelog]
     if: needs.bump.outputs.bumped == 'true'
-    permissions:
-      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
