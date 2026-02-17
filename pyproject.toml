@@ -1,6 +1,6 @@
 [project]
 name = "dtocean-examples"
-version = "2026.01.0"
+version = "2026.02.0"
 description = "Examples for the DTOcean suite of tools"
 authors = [
     {name = "Mathew Topper",email = "damm_horse@yahoo.co.uk"}
