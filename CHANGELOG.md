@@ -5,6 +5,28 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Calendar Versioning](https://calver.org/).
 
+## [v2026.02.1] - 2026-02-17
+### :boom: BREAKING CHANGES
+- due to [`06df011`](https://github.com/DTOcean/dtocean-examples/commit/06df0118fa32f497527df72c406d7a205db9b15d) - change dtox file content for new format *(commit by [@H0R5E](https://github.com/H0R5E))*:
+
+  change dtox file content for new format
+
+
+### :sparkles: New Features
+- [`2d3e8bb`](https://github.com/DTOcean/dtocean-examples/commit/2d3e8bbb018c600eed553aeac4eb0d242d48f042) - set up release automation *(commit by [@H0R5E](https://github.com/H0R5E))*
+- [`06df011`](https://github.com/DTOcean/dtocean-examples/commit/06df0118fa32f497527df72c406d7a205db9b15d) - change dtox file content for new format *(commit by [@H0R5E](https://github.com/H0R5E))*
+
+### :bug: Bug Fixes
+- [`ee24671`](https://github.com/DTOcean/dtocean-examples/commit/ee24671114bd544617870cc1a55be6b19267bd1c) - allow year 0 in calver format *(commit by [@H0R5E](https://github.com/H0R5E))*
+
+### :wrench: Chores
+- [`f8dcced`](https://github.com/DTOcean/dtocean-examples/commit/f8dcced0f19246818e388fab173c7f44b54f5fb5) - rollback initial version *(commit by [@H0R5E](https://github.com/H0R5E))*
+- [`6a0ba6a`](https://github.com/DTOcean/dtocean-examples/commit/6a0ba6a121e1dcd08ecb47ba101ecc77bc351e56) - bump version 0000.01.0 → 2026.01.0 *(commit by [@H0R5E](https://github.com/H0R5E))*
+- [`e5a51d8`](https://github.com/DTOcean/dtocean-examples/commit/e5a51d86d644581cf08b13f21a7b4167f80d5246) - use 1 permissions block in release action *(commit by [@H0R5E](https://github.com/H0R5E))*
+- [`273dae6`](https://github.com/DTOcean/dtocean-examples/commit/273dae6613419f47aec4eee02fc99f4aa0d551a8) - bump version 2026.01.0 → 2026.02.0 *(commit by [@H0R5E](https://github.com/H0R5E))*
+- [`cabd426`](https://github.com/DTOcean/dtocean-examples/commit/cabd426d0c72c23569b3ff13d7e6b8549e64c503) - bump version 2026.02.0 → 2026.02.1 *(commit by [@H0R5E](https://github.com/H0R5E))*
+
+
 ## [v2026.01.0] - 2026-01-28
 
 ### :sparkles: New Features
@@ -21,3 +43,4 @@ and this project adheres to [Calendar Versioning](https://calver.org/).
 - [`6a0ba6a`](https://github.com/DTOcean/dtocean-examples/commit/6a0ba6a121e1dcd08ecb47ba101ecc77bc351e56) - bump version 0000.01.0 → 2026.01.0 _(commit by [@H0R5E](https://github.com/H0R5E))_
 
 [v2026.01.0]: https://github.com/DTOcean/dtocean-examples/compare/v0000.01.0...v2026.01.0
+[v2026.02.1]: https://github.com/DTOcean/dtocean-examples/compare/v0000.01.0...v2026.02.1
