@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Calendar Versioning](https://calver.org/).
 
 
+## [v2026.02.3] - 2026-02-27
+### :bug: Bug Fixes
+- [`8a90948`](https://github.com/DTOcean/dtocean-examples/commit/8a90948dfe050454f5ad0ea35fc659ba69eb12ff) - now uses posix paths always *(commit by [@H0R5E](https://github.com/H0R5E))*
+
+### :wrench: Chores
+- [`18d7be8`](https://github.com/DTOcean/dtocean-examples/commit/18d7be84457f0a839cae4fc559d47a62e3cf9771) - bump version 2026.02.2 → 2026.02.3 *(commit by [@H0R5E](https://github.com/H0R5E))*
+
+
 ## [v2026.02.2] - 2026-02-17
 ### :boom: BREAKING CHANGES
 - due to [`06df011`](https://github.com/DTOcean/dtocean-examples/commit/06df0118fa32f497527df72c406d7a205db9b15d) - change dtox file content for new format *(commit by [@H0R5E](https://github.com/H0R5E))*:
@@ -34,3 +42,4 @@ and this project adheres to [Calendar Versioning](https://calver.org/).
 - [`5c381f2`](https://github.com/DTOcean/dtocean-examples/commit/5c381f29d215520effebc57219198b521d1c833a) - bump version 2026.02.1 → 2026.02.2 *(commit by [@H0R5E](https://github.com/H0R5E))*
 
 [v2026.02.2]: https://github.com/DTOcean/dtocean-examples/compare/v0000.01.0...v2026.02.2
+[v2026.02.3]: https://github.com/DTOcean/dtocean-examples/compare/v2026.02.2...v2026.02.3
