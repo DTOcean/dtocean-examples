@@ -9,10 +9,11 @@ page.
 
 The following table describes the content of each of the top level folders:
 
-| Folder           | Description                                                                                                                                                                 |
-|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Getting Started  | Files to accompany the [Getting Started 1: Example Project](https://dtocean.github.io/dtocean/next/user/getting_started_1.html) tutorial                                    |
-| RM3 WEC Analysis | A copy of the project featured in the [DTOcean WEC Pre-processor](https://youtube.com/playlist?list=PL0_lWZCqs2h2NJWA0YX7L3_qyd2snzq_d&si=GRxgHTyom2Xi5fQi) video tutorials |
+| Folder              | Description                                                                                                                                                                              |
+|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Getting Started     | Files to accompany the [Getting Started 1: Example Project](https://dtocean.github.io/dtocean/next/user/getting_started_1.html) tutorial                                                 |
+| RM3 Performance Fit | A copy of the performance fit data featured in the [DTOcean WEC Pre-processor](https://youtube.com/playlist?list=PL0_lWZCqs2h2NJWA0YX7L3_qyd2snzq_d&si=GRxgHTyom2Xi5fQi) video tutorials |
+| RM3 WEC Analysis    | A copy of the WEC Analysis project featured in the [DTOcean WEC Pre-processor](https://youtube.com/playlist?list=PL0_lWZCqs2h2NJWA0YX7L3_qyd2snzq_d&si=GRxgHTyom2Xi5fQi) video tutorials |
 
 ## Contributing
 
