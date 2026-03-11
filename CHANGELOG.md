@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Calendar Versioning](https://calver.org/).
 
 
+## [v2026.03.0] - 2026-03-11
+### :sparkles: New Features
+- [`fe2b2e9`](https://github.com/DTOcean/dtocean-examples/commit/fe2b2e9d81109ad5c087240eeedc783664b2e40a) - add performance fit data for RM3 *(commit by [@H0R5E](https://github.com/H0R5E))*
+
+### :wrench: Chores
+- [`ce96787`](https://github.com/DTOcean/dtocean-examples/commit/ce96787930ad24776b626c2da6535c7c790a2a50) - bump version 2026.02.3 → 2026.03.0 *(commit by [@H0R5E](https://github.com/H0R5E))*
+
+
 ## [v2026.02.3] - 2026-02-27
 ### :bug: Bug Fixes
 - [`8a90948`](https://github.com/DTOcean/dtocean-examples/commit/8a90948dfe050454f5ad0ea35fc659ba69eb12ff) - now uses posix paths always *(commit by [@H0R5E](https://github.com/H0R5E))*
@@ -43,3 +51,4 @@ and this project adheres to [Calendar Versioning](https://calver.org/).
 
 [v2026.02.2]: https://github.com/DTOcean/dtocean-examples/compare/v0000.01.0...v2026.02.2
 [v2026.02.3]: https://github.com/DTOcean/dtocean-examples/compare/v2026.02.2...v2026.02.3
+[v2026.03.0]: https://github.com/DTOcean/dtocean-examples/compare/v2026.02.3...v2026.03.0
