@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Calendar Versioning](https://calver.org/).
 
 
+## [v2026.04.0] - 2026-04-21
+### :sparkles: New Features
+- [`c7c3557`](https://github.com/DTOcean/dtocean-examples/commit/c7c3557f3f665344ee65dedbdccc3d62a11dba7d) - update RM3 10 example for economics module *(commit by [@H0R5E](https://github.com/H0R5E))*
+
+### :wrench: Chores
+- [`0cdae36`](https://github.com/DTOcean/dtocean-examples/commit/0cdae369afe463a24e022890e99f37051df30f28) - bump version 2026.03.0 → 2026.04.0 *(commit by [@H0R5E](https://github.com/H0R5E))*
+
+
 ## [v2026.03.0] - 2026-03-11
 ### :sparkles: New Features
 - [`fe2b2e9`](https://github.com/DTOcean/dtocean-examples/commit/fe2b2e9d81109ad5c087240eeedc783664b2e40a) - add performance fit data for RM3 *(commit by [@H0R5E](https://github.com/H0R5E))*
@@ -52,3 +60,4 @@ and this project adheres to [Calendar Versioning](https://calver.org/).
 [v2026.02.2]: https://github.com/DTOcean/dtocean-examples/compare/v0000.01.0...v2026.02.2
 [v2026.02.3]: https://github.com/DTOcean/dtocean-examples/compare/v2026.02.2...v2026.02.3
 [v2026.03.0]: https://github.com/DTOcean/dtocean-examples/compare/v2026.02.3...v2026.03.0
+[v2026.04.0]: https://github.com/DTOcean/dtocean-examples/compare/v2026.03.0...v2026.04.0
